@@ -1,2 +1,2 @@
 # Cheat_Sheats
-My cheat sheats for pentesting.
+My cheat sheets for pentesting.
